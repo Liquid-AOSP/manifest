@@ -29,7 +29,7 @@ $ brunch <codename>
 
 Big thanks to:
 
-## [• Pixel Experience](https://github.com/PixelExperience)
-## [• ArrowOS](https://github.com/ArrowOS)
-## [• LineageOS](https://github.com/LineageOS)
-## [• The Android Open Source Project (ofc)](https://source.android.com/)
+#### [• Pixel Experience](https://github.com/PixelExperience)
+#### [• ArrowOS](https://github.com/ArrowOS)
+#### [• LineageOS](https://github.com/LineageOS)
+#### [• The Android Open Source Project (ofc)](https://source.android.com/)
