@@ -17,6 +17,10 @@
            fetch="https://github.com/elytraOS" />
 
 
+  <remote name="pixel-gitlab"
+          fetch="https://gitlab.com/PixelExperience/twelve"
+          revision="twelve" />
+
   <!-- External repositories -->
   <project path="external/android-nn-driver" name="LineageOS/android_external_android-nn-driver" groups="pdk-lassen" remote="LineageOS" />
   <project path="external/armnn" name="LineageOS/android_external_armnn" groups="pdk-lassen" remote="LineageOS" />
@@ -175,7 +179,7 @@
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" remote="LineageOS" />
 
   <!-- Vendor repositories -->
-  <project path="vendor/gms" name="android_vendor_gms" remote="awaken" clone-depth="1" revision="12.1" />
+  <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
   <project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" remote="LineageOS" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="LineageOS/android_vendor_nxp_interfaces_opensource_nfc" remote="LineageOS" revision="lineage-18.1" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="LineageOS/android_vendor_nxp_opensource_external_libnfc-nci" remote="LineageOS" revision="lineage-18.1" />
