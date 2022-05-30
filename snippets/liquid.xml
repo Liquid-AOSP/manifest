@@ -95,3 +95,5 @@
     <project path="hardware/interfaces" name="hardware_interfaces" remote="liquid" />
     <project path="hardware/xiaomi" name="hardware_xiaomi" remote="liquid" />
     <project path="hardware/liquid/interfaces" name="hardware_liquid_interfaces" remote="liquid" />
+
+</manifest>
