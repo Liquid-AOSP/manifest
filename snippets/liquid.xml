@@ -58,6 +58,11 @@
     <project path="system/update_engine" name="system_update_engine" remote="liquid" />
     <project path="system/vold" name="system_vold" remote="liquid" />
 
+    <!-- SEPolicy repositories -->
+    <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="liquid" />
+    <project path="device/liquid/sepolicy" name="device_liquid_sepolicy" remote="liquid" />
+    <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="liquid" />
+    <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="liquid" />
 
     <!-- Packages -->
     <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="liquid" />
