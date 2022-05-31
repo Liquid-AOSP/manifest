@@ -146,6 +146,7 @@
   <project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" groups="pdk-fs" remote="LineageOS" revision="lineage-19.1" />
   <project path="packages/apps/DocumentsUI" name="LineageOS/android_packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="LineageOS" revision="lineage-19.1" />
   <project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" remote="LineageOS" revision="lineage-19.1" />
+  <project path="packages/apps/ThemePicker" name="LineageOS/android_packages_apps_ThemePicker" remote="LineageOS" revision="lineage-19.1" />
   <project path="packages/apps/EmergencyInfo" name="LineageOS/android_packages_apps_EmergencyInfo" groups="pdk-fs" remote="LineageOS" revision="lineage-19.1" />
   <project path="packages/apps/Etar" name="LineageOS/android_packages_apps_Etar" remote="LineageOS" revision="lineage-19.1" />
   <project path="packages/apps/Jelly" name="LineageOS/android_packages_apps_Jelly" remote="LineageOS" revision="lineage-19.1" />
