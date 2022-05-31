@@ -32,7 +32,6 @@
     <project path="external/libjpeg-turbo" name="external_libjpeg-turbo" remote="liquid" />
     <project path="external/libpng" name="external_libpng" remote="liquid" />
     <project path="external/libvpx" name="external_libvpx" remote="liquid" />
-    <project path="external/libyuv" name="external_libyuv" remote="liquid" />
     <project path="external/lz4" name="external_lz4" remote="liquid" />
     <project path="external/vixl" name="external_vixl" remote="liquid" />
     <project path="external/zstd" name="external_zstd" remote="liquid" />
