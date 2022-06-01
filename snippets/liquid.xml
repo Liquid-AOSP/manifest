@@ -26,14 +26,10 @@
 
     <!-- External -->
     <project path="external/arm-optimized-routines" name="external_arm-optimized-routines" remote="liquid" />
-    <project path="external/scudo" name="external_scudo" remote="liquid" />
     <project path="external/sqlite" name="external_sqlite" remote="liquid" />
     <project path="external/giflib" name="external_giflib" remote="liquid" />
-    <project path="external/libjpeg-turbo" name="external_libjpeg-turbo" remote="liquid" />
-    <project path="external/libpng" name="external_libpng" remote="liquid" />
     <project path="external/libvpx" name="external_libvpx" remote="liquid" />
     <project path="external/lz4" name="external_lz4" remote="liquid" />
-    <project path="external/vixl" name="external_vixl" remote="liquid" />
     <project path="external/zstd" name="external_zstd" remote="liquid" />
 
 
