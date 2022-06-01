@@ -46,13 +46,10 @@
     <!-- System repositories -->
     <project path="system/bt" name="system_bt" remote="liquid" />
     <project path="system/core" name="system_core" remote="liquid" />
-    <project path="system/libartpalette" name="system_libartpalette" remote="liquid" />
     <project path="system/media" name="system_media" remote="liquid" />
-    <project path="system/memory/lmkd" name="system_memory_lmkd" remote="liquid" />
     <project path="system/sepolicy" name="system_sepolicy" remote="liquid" />
     <project path="system/security" name="system_security" remote="liquid" /> 
     <project path="system/update_engine" name="system_update_engine" remote="liquid" />
-    <project path="system/vold" name="system_vold" remote="liquid" />
 
     <!-- SEPolicy repositories -->
     <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="liquid" />
