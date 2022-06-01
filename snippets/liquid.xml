@@ -87,10 +87,10 @@
     <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" remote="liquid" />
     <project path="frameworks/native" name="frameworks_native" remote="liquid" />
     <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="liquid" />
-    
+
     <!-- Hardware repositories -->
     <project path="hardware/interfaces" name="hardware_interfaces" remote="liquid" />
     <project path="hardware/xiaomi" name="hardware_xiaomi" remote="liquid" />
     <project path="hardware/liquid/interfaces" name="hardware_liquid_interfaces" remote="liquid" />
-
+    <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="liquid" />
 </manifest>
