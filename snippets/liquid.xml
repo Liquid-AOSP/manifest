@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="liquid"
-           fetch="https://github.com/Liquid-AOSP"
+           fetch="https://github.com/LiquidOS-aosp"
            revision="limerock" />
 
   <remote  name="github"
