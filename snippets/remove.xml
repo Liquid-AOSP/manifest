@@ -148,6 +148,7 @@
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/security" />
   <remove-project name="platform/system/tools/mkbootimg" />
+  <remove-project name="platform/system/update_engine" />
 
   <!-- External -->
   <remove-project name="platform/external/android-nn-driver" />
